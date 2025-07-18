@@ -4,7 +4,7 @@ Uma API RESTful para gerenciamento de uma clínica médica, com funcionalidades 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js** – Ambiente de execução JavaScript no servidor  
 - **Express.js** – Framework web para criação da API  
@@ -15,7 +15,7 @@ Uma API RESTful para gerenciamento de uma clínica médica, com funcionalidades 
 
 ---
 
-## 📁 Como clonar o repositório
+## Como clonar o repositório
 
 Abra o terminal e execute:
 
@@ -26,7 +26,7 @@ cd clinica-api
 
 ---
 
-## 📦 Como instalar as dependências
+## Como instalar as dependências
 
 Com o Node.js instalado, execute:
 
@@ -38,7 +38,7 @@ Isso irá instalar todas as dependências listadas no `package.json`.
 
 ---
 
-## ⚙️ Como configurar o ambiente
+## Como configurar o ambiente
 
 Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis (exemplo):
 
@@ -51,7 +51,7 @@ Certifique-se de substituir o valor de `DATABASE_URL` com a URL real do seu banc
 
 ---
 
-## ▶️ Como executar o projeto localmente
+## ▶Como executar o projeto localmente
 
 Para rodar a API em modo de desenvolvimento com `nodemon`:
 
@@ -70,7 +70,7 @@ A aplicação será iniciada e estará disponível em:
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 clinica-api/
@@ -84,7 +84,7 @@ clinica-api/
 
 ---
 
-## ✅ Exemplos de Endpoints
+## Exemplos de Endpoints
 
 - `GET /pacientes` – Lista todos os pacientes  
 - `POST /medicos` – Cadastra um novo médico  
@@ -93,6 +93,6 @@ clinica-api/
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo, modificá-lo e distribuí-lo.
